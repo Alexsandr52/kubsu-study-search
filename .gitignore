@@ -1,0 +1,17 @@
+# Source exports, private documents, and generated processing data
+/data/
+/qdrant_storage/
+
+# Local environments and caches
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.codegraph/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+streamlit>=1.42,<2
+qdrant-client>=1.19
+requests>=2.32
+httpx>=0.28
+huggingface-hub>=1.5
+transformers==5.16.1
+torch>=2.2
